@@ -4,6 +4,9 @@ Sample Code for Matrix Arithmetic.
 
 It is required Xcode 10.2 and Swift 5.
 
+* Presentation : [Matrix Arithmetic in Swift - Speaker Deck](https://speakerdeck.com/usamik26/matrix-arithmetic-in-swift)
+* Blog : [行列をSwiftで実装する話をしました #関モバ - usami-kの日記](https://usami-k.hatenablog.com/entry/2019/05/20/213158)
+
 ## License
 
 Copyright 2019 USAMI Kosuke
